@@ -7,9 +7,9 @@ global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴�
 global.author = "𝙋𝙄𝙆𝘼"  
 global.packname = "༆⃟☻⃝🇦βɖƲℓ❑🇬нαηι༆⃟✨"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
+global.waterMark = "×͜× King ✘ GHANI™ ✓" // Your own watermark 
 global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.DocumentTitle = "MASTER⚔️GHANI" 
 
 
 global.ownername = "༆⃟☻⃝🇦βɖƲℓ❑🇬нαηι༆⃟✨"   // Owner name //        
